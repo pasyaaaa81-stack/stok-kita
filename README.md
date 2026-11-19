@@ -9,7 +9,7 @@ Aplikasi web manajemen inventaris berbasis **PHP Native** dan **MySQL** untuk me
 ### Anggota Kelompok
 1. **M. Irfan Pasya** — `24312188`
 2. **Ajaya Haposan Firdaus** — `24312099` (GitHub: @jeyymbutzz)
-3. **Luthfia Jasmine Asy Syifa** — `24312110` (Github : @jasmineeeasyy-afk)
+3. **Luthfia Jasmine Asy Syifa** — `24312110`(GitHub: @Jasmineeeeasyy)
 4. **Zarir Azizah Munawaroh** — `24312053`(GitHub:zarirazizahmunawaroh-lang)
 5. **Alicea Calista** — `24312136`
 
